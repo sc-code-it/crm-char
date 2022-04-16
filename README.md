@@ -1,4 +1,5 @@
 
+![example workflow](https://github.com/sc-code-it/crm-char/actions/workflows/node.js.yml/badge.svg)
 
 # Sci
 
